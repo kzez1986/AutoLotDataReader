@@ -1,0 +1,7 @@
+C:\Users\kzez1986\Source\Repos\AutoLotDataReader\AutoLotDataReader\obj\Debug\AutoLotDataReader.csprojAssemblyReference.cache
+C:\Users\kzez1986\Source\Repos\AutoLotDataReader\AutoLotDataReader\obj\Debug\AutoLotDataReader.csproj.CoreCompileInputs.cache
+C:\Users\kzez1986\Source\Repos\AutoLotDataReader\AutoLotDataReader\bin\Debug\AutoLotDataReader.exe.config
+C:\Users\kzez1986\Source\Repos\AutoLotDataReader\AutoLotDataReader\bin\Debug\AutoLotDataReader.exe
+C:\Users\kzez1986\Source\Repos\AutoLotDataReader\AutoLotDataReader\bin\Debug\AutoLotDataReader.pdb
+C:\Users\kzez1986\Source\Repos\AutoLotDataReader\AutoLotDataReader\obj\Debug\AutoLotDataReader.exe
+C:\Users\kzez1986\Source\Repos\AutoLotDataReader\AutoLotDataReader\obj\Debug\AutoLotDataReader.pdb
